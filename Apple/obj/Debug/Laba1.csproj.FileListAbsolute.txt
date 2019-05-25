@@ -1,0 +1,16 @@
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+G:\Графон\Laba1\Laba1\obj\Debug\LabNames.exe
+G:\Графон\Laba1\Laba1\bin\Debug\LabNames.exe
+G:\Графон\Laba1\Laba1\bin\Debug\LabNames.pdb
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.FreeGlut.dll
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.OpenGl.dll
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.Platform.Windows.dll
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.FreeGlut.xml
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.OpenGl.xml
+G:\Графон\Laba1\Laba1\bin\Debug\Tao.Platform.Windows.xml
+G:\Графон\Laba1\Laba1\obj\Debug\Laba1.csproj.CopyComplete
+G:\Графон\Laba1\Laba1\obj\Debug\LabNames.pdb

@@ -1,0 +1,45 @@
+G:\Графон\Почти работает - копия\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+G:\Графон\Почти работает - копия\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+G:\Графон\Почти работает - копия\Apple\bin\Debug\Tao.FreeGlut.xml
+G:\Графон\Почти работает - копия\Apple\bin\Debug\Tao.OpenGl.xml
+G:\Графон\Почти работает - копия\Apple\bin\Debug\Tao.Platform.Windows.xml
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Apple.csprojAssemblyReference.cache
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Laba1.mBox.resources
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Apple.csproj.GenerateResource.cache
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Apple.csproj.CoreCompileInputs.cache
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Apple.csproj.CopyComplete
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+G:\Графон\Почти работает - копия\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+G:\_\Графон\КПонедельнику - копия\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+G:\_\Графон\КПонедельнику - копия\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Laba1.mBox.resources
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Apple.csproj.GenerateResource.cache
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Apple.csproj.CoreCompileInputs.cache
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Apple.csproj.CopyComplete
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+G:\_\Графон\КПонедельнику - копия\Apple\obj\Debug\Apple.csprojAssemblyReference.cache
+D:\КПонедельнику\Apple\obj\Debug\Laba1.mBox.resources
+D:\КПонедельнику\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+D:\КПонедельнику\Apple\obj\Debug\Apple.csproj.GenerateResource.cache
+D:\КПонедельнику\Apple\obj\Debug\Apple.csproj.CoreCompileInputs.cache
+D:\КПонедельнику\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\КПонедельнику\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\КПонедельнику\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+D:\КПонедельнику\Apple\obj\Debug\Apple.csproj.CopyComplete
+D:\КПонедельнику\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+D:\КПонедельнику\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe.config
+D:\КПонедельнику\Apple\obj\Debug\Apple.csprojAssemblyReference.cache
+D:\Git\SnakeFLex\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe.config
+D:\Git\SnakeFLex\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\Git\SnakeFLex\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+D:\Git\SnakeFLex\Apple\obj\Debug\Apple.csprojAssemblyReference.cache
+D:\Git\SnakeFLex\Apple\obj\Debug\Laba1.mBox.resources
+D:\Git\SnakeFLex\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+D:\Git\SnakeFLex\Apple\obj\Debug\Apple.csproj.GenerateResource.cache
+D:\Git\SnakeFLex\Apple\obj\Debug\Apple.csproj.CoreCompileInputs.cache
+D:\Git\SnakeFLex\Apple\obj\Debug\Apple.csproj.CopyComplete
+D:\Git\SnakeFLex\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\Git\SnakeFLex\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb

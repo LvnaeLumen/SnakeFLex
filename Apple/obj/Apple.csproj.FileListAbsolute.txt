@@ -1,0 +1,56 @@
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\ResolveAssemblyReference.cache
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\Apple.Properties.Resources.resources
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\Apple.Form1.resources
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\bin\Debug\Apple.exe
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\bin\Debug\Apple.pdb
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\Apple.exe
+E:\К3-42Б\Варюхин\4 лаба\Apple\Apple\obj\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\Apple.exe
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Apple\Apple\bin\Debug\Apple.exe
+E:\Erofeev\4 лаба\Apple\Apple\bin\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\ResolveAssemblyReference.cache
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\Laba1.Form1.resources
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\Apple.Properties.Resources.resources
+E:\Erofeev\4 лаба\Apple\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\Apple.exe
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Копия Apple\Apple\bin\Debug\Apple.exe
+E:\Erofeev\4 лаба\Копия Apple\Apple\bin\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\ResolveAssemblyReference.cache
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\Laba1.Form1.resources
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\Apple.Properties.Resources.resources
+E:\Erofeev\4 лаба\Копия Apple\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\Apple.exe
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\bin\Debug\Apple.exe
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\bin\Debug\Apple.pdb
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\ResolveAssemblyReference.cache
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\Laba1.Form1.resources
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\Apple.Properties.Resources.resources
+E:\Erofeev\4 лаба\Копия Копия Apple\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\ResolveAssemblyReference.cache
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+H:\Графон\Копия Копия Apple\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+H:\Графон\Копия Копия Apple\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\Laba1.mBox.resources
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+H:\Графон\Копия Копия Apple\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+H:\_\Графон\Копия Почти работает\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+H:\_\Графон\Копия Почти работает\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\ResolveAssemblyReference.cache
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\Laba1.mBox.resources
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+H:\_\Графон\Копия Почти работает\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\Laba1.mBox.resources
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+C:\Documents and Settings\USER2\Рабочий стол\КПонедельнику\Apple\obj\Debug\Apple.csproj.GenerateResource.Cache

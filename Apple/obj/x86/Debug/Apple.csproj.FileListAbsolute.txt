@@ -1,0 +1,14 @@
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao-OpenGL-Initialization-Test.pdb
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao.DevIl.dll
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao.FreeGlut.dll
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao.OpenGl.dll
+D:\КПонедельнику\Apple\bin\x86\Debug\Tao.Platform.Windows.dll
+D:\КПонедельнику\Apple\obj\x86\Debug\Apple.csprojAssemblyReference.cache
+D:\КПонедельнику\Apple\obj\x86\Debug\Laba1.mBox.resources
+D:\КПонедельнику\Apple\obj\x86\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+D:\КПонедельнику\Apple\obj\x86\Debug\Apple.csproj.GenerateResource.cache
+D:\КПонедельнику\Apple\obj\x86\Debug\Apple.csproj.CoreCompileInputs.cache
+D:\КПонедельнику\Apple\obj\x86\Debug\Apple.csproj.CopyComplete
+D:\КПонедельнику\Apple\obj\x86\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\КПонедельнику\Apple\obj\x86\Debug\Tao-OpenGL-Initialization-Test.pdb
